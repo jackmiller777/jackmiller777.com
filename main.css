@@ -12,13 +12,18 @@ header, section, footer, aside, nav, article, hgroup{
 	display: block;
 }
 body{
+	
 	width: 900px;
 	margin: auto;
-	
+	color: white;
+	background-color: #1F1F1F;
+
+    font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
 }
 
-body,td,th {
-    color: #E5E5E5;
+
+td,th {
+ 	color: white;
 	background-color: #000;
     font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
 	
@@ -28,14 +33,19 @@ body,td,th {
 	margin-top: 20px;
 	text-align:left;
 	border: #D75457;
+	border-radius: 7px;
 	background-color: #333;
-	padding: 10px;
-
+	padding-top: 10px;
+	padding-bottom: 7px;
+	padding-left: 10px;
+	padding-right: 10px;
+	
 }
 #small_wrapper{
 	padding-top: 20px;
 	width: 860px;
 	margin: auto;
+	margin-bottom: 10px;
 }
 #small_wrapper_2{
 	padding-top: 20px;
