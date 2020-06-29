@@ -17,9 +17,20 @@ body{
 	
 }
 
+body,td,th {
+    color: #E5E5E5;
+	background-color: #000;
+    font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	
+}
+
 #big_wrapper{
 	margin-top: 20px;
 	text-align:left;
+	border: #D75457;
+	background-color: #333;
+	padding: 10px;
+
 }
 #small_wrapper{
 	padding-top: 20px;
