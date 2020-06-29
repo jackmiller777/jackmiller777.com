@@ -45,6 +45,9 @@ body{
   color: black;
 }
 
+    #link_bar a:link { color:#4CAF50;}
+    #link_bar a:visited { color:#38693a;}
+
 /* Add a color to the active/current link */
 .topnav a.active {
     background-color: #4CAF50;
