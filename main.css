@@ -46,7 +46,9 @@ body{
 }
 
     #link_bar a:link { color:#4CAF50;}
-    #link_bar a:visited { color:#38693a;}
+    #link_bar a:visited { color:#2c4a2d;}
+	#link_bar a:hover { color:#51ed57;}
+
 
 /* Add a color to the active/current link */
 .topnav a.active {
