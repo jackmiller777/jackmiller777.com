@@ -90,6 +90,12 @@ footer {
 	a.link_bar:visited { color:#4CAF50;}
 	a.link_bar:hover { color:#51ed57;}
 
+a.nolinkcolor {
+	color: #fff;
+	text-decoration: none;
+}
+
+
 /* #DDA0DD Plum BA55D3 EE82EE*/
 
 /* Greens: #4CAF50 #51ed57 */
