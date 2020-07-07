@@ -184,12 +184,6 @@ a.nolinkcolor {
     font:0.7em verdana,arial;
 }
 
-h1,h2 {
-    margin:0;
-    padding:4px;
-    font:bold 1.5em verdana;
-    border-bottom:1px solid #000;
-}
 
 code {
     font-size:1.2em;
